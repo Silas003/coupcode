@@ -1,5 +1,5 @@
 - start by cloning the repository to your local machine. Use Git for this purpose by running the command:
-- git clone `https://github.com/GasApp0/backend.git`. Once the cloning process is complete, navigate into the project directory using cd django-project.
+- git clone `[https://github.com/GasApp0/backend.git](https://github.com/Silas003/coupcode.git)`. Once the cloning process is complete, navigate into the project directory using cd django-project.
 
 - It is recommended to create a virtual environment to manage dependencies efficiently. To set this up, run python -m venv venv. Activate this virtual environment by executing source `venv/bin/activate` on Unix or MacOS. For Windows, use `venv\Scripts\activate`.
 
@@ -10,7 +10,7 @@
 
 - So with the database use set `USE_SQLITE` in settings.py as True.
 
-- Creating the necessary database tables is the next step. This can be accomplished by running python manage.py migrate. This command applies migrations and creates the required tables in the database.
+- Creating the necessary database tables is the next step. This can be accomplished by running `python manage.py migrate`. This command applies migrations and creates the required tables in the database.
 
 - For administrative purposes, creating a superuser is vital. Execute python manage.py createsuperuser and follow the prompts to set the username, email, and password. This superuser account will be used to access the Django admin panel.
 

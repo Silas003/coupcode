@@ -1,3 +1,4 @@
+# COUPCODE
 - start by cloning the repository to your local machine. Use Git for this purpose by running the command:
 - git clone `https://github.com/Silas003/coupcode.git`. Once the cloning process is complete, navigate into the project directory using cd django-project.
 

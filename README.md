@@ -1,5 +1,5 @@
 - start by cloning the repository to your local machine. Use Git for this purpose by running the command:
-- git clone `[https://github.com/GasApp0/backend.git](https://github.com/Silas003/coupcode.git)`. Once the cloning process is complete, navigate into the project directory using cd django-project.
+- git clone `https://github.com/Silas003/coupcode.git`. Once the cloning process is complete, navigate into the project directory using cd django-project.
 
 - It is recommended to create a virtual environment to manage dependencies efficiently. To set this up, run python -m venv venv. Activate this virtual environment by executing source `venv/bin/activate` on Unix or MacOS. For Windows, use `venv\Scripts\activate`.
 
